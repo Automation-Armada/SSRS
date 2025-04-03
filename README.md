@@ -5,6 +5,9 @@
 ```bash
 git clone https://github.com/Automation-Armada/SSRS 
 ```
+```bash
+.\download.ps1
+```
 
 ```bash
 Set-ExecutionPolicy RemoteSigned -Scope Process
