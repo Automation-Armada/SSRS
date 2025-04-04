@@ -8,4 +8,4 @@ $rutaCompleta = Join-Path -Path $rutaActual -ChildPath $archivo
 
 Invoke-WebRequest -Uri $url -OutFile $rutaCompleta
 
-Write-Host "Descarga completada: $rutaCompleta"
+Write-Host "Download completed: $rutaCompleta"
